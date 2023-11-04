@@ -1,4 +1,5 @@
-# Movie Recommendation System README
+# Movie Recommendation System
+
 
 ## Overview
 This README accompanies a Python script that demonstrates the creation of a basic movie recommendation system using the 100k MovieLens dataset. The system provides recommendations based on user ratings for different movies. The workflow includes data loading, preprocessing, exploratory data analysis, and generating movie recommendations.
